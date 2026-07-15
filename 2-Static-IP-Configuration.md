@@ -35,10 +35,15 @@ Configure a static IPv4 address before deploying Active Directory.
 ## Screenshots
 
 ### Network Adapter Details
+![Details](screenshots/Details.png)
 
 
 ### IPv4 Static Configuration
 
+![IPv4](screenshots/Static.png)
+
+
 
 ### Local Server
+![local](screenshots/server.png)
 

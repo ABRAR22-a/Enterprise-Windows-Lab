@@ -26,5 +26,6 @@ Servers should have meaningful names before installing server roles such as Acti
 
 ## Screenshot
 
+![DC01](screenshots/)
 
-(Change Computer Name)
+

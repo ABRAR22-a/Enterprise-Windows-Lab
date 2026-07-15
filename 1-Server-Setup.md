@@ -26,6 +26,6 @@ Servers should have meaningful names before installing server roles such as Acti
 
 ## Screenshot
 
-![DC01](screenshots/)
+![DC01](screenshots/DCO1.png)
 
 
